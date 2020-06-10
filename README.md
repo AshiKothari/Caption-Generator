@@ -37,7 +37,7 @@ Each image has almost 5 captions in Flickr8k.txt. This means in total there are 
 2.Google search- Given a image to search it is converted to text to search the similar results.<br>
 3.Automatic Surveillance (CCTV cameras)- Alarm could be used for malicious activities detected.<br>
 
-![Image Captioning](https://github.com/AshiKothari/Caption-Generator/Capture1.png)
+![Image Captioning](https://github.com/AshiKothari/Caption-Generator/blob/master/Capture1.png?raw=true)
 
 
 
