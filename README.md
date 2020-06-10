@@ -2,8 +2,8 @@
 Generating Captions for Images using ML, Computer Vision and Deep learning algorithms.
 
 <h2>What is Image Captioning?</h2>
-Image Captioning is the process of generating textual description of an image. It uses both Natural Language Processing and Computer Vision to generate the captions.
-![Image Captioning](Capture1.PNG)
+Image Captioning is the process of generating textual description of an image. It uses both Natural Language Processing and Computer Vision to generate the captions. Interface is made as:<br>
+![Image Captioning](Capture1.PNG)  <br>
 ![Image Captioning](Capture2.PNG)
 
 ### Dependencies
