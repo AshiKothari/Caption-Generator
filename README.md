@@ -3,8 +3,17 @@ Generating Captions for Images using ML, Computer Vision and Deep learning algor
 
 <h2>What is Image Captioning?</h2>
 Image Captioning is the process of generating textual description of an image. It uses both Natural Language Processing and Computer Vision to generate the captions. Interface is made as:<br>
-![Image Captioning](Capture1.PNG)  <br>
-![Image Captioning](Capture2.PNG)
+
+![Image_Captioning1](Capture1.PNG)  <br>
+
+
+
+
+
+
+
+
+![Image_Captioning2](Capture2.PNG)
 
 ### Dependencies
 You need to have python and jupyter notebook installed in your systems. The system can also be deployed on the server. I completed its backend using Flask but since it uses tensorflow in backend (large size) so it can not be deployed for free :( <br>
@@ -39,7 +48,7 @@ Each image has almost 5 captions in Flickr8k.txt. This means in total there are 
 2.Google search- Given a image to search it is converted to text to search the similar results.<br>
 3.Automatic Surveillance (CCTV cameras)- Alarm could be used for malicious activities detected.<br>
 
-
+![Image Captioning](Capture1.PNG)
 
 
 
