@@ -1,5 +1,5 @@
 # Image Captioning
-Generating Captions for Images using ML, Computer Vision and Deep lernig algorithms.
+Generating Captions for Images using ML, Computer Vision and Deep learning algorithms.
 
 <h2>What is Image Captioning?</h2>
 Image Captioning is the process of generating textual description of an image. It uses both Natural Language Processing and Computer Vision to generate the captions.
@@ -37,7 +37,7 @@ Each image has almost 5 captions in Flickr8k.txt. This means in total there are 
 2.Google search- Given a image to search it is converted to text to search the similar results.<br>
 3.Automatic Surveillance (CCTV cameras)- Alarm could be used for malicious activities detected.<br>
 
-![Image Captioning](“Capture1.png”)
+![Image Captioning](https://github.com/AshiKothari/Caption-Generator/Capture1.png)
 
 
 
