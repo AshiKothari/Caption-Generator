@@ -3,11 +3,13 @@ Generating Captions for Images using ML, Computer Vision and Deep learning algor
 
 <h2>What is Image Captioning?</h2>
 Image Captioning is the process of generating textual description of an image. It uses both Natural Language Processing and Computer Vision to generate the captions.
+![Image Captioning](Capture1.PNG)
+![Image Captioning](Capture2.PNG)
 
 ### Dependencies
 You need to have python and jupyter notebook installed in your systems. The system can also be deployed on the server. I completed its backend using Flask but since it uses tensorflow in backend (large size) so it can not be deployed for free :( <br>
 To run it as local host you can clone the repository and run <strong>python app.py</strong> on command line (in the directory where files are located). Also if some problem persists in this you can run <b> flask run --without-threads </b> i.e. with debug mode off. This error may occur due to different version of tensorflow and keras used. I used tensorflow vesion 2.1.0 and keras version 2.3.1.
-Files and folders required for hosting on heroku are model_weights, templates, Procfile, requirements.txt, app.py, caption_it.py,i2w.pkl,w2i.pkl.
+Files required for hosting on heroku are int this repository https://github.com/AshiKothari/Automated-Image-Captioning
 
 ### Libraries Required
 Anaconda installs all the necessary libraries I have used in this project but I still list them below.
@@ -37,7 +39,7 @@ Each image has almost 5 captions in Flickr8k.txt. This means in total there are 
 2.Google search- Given a image to search it is converted to text to search the similar results.<br>
 3.Automatic Surveillance (CCTV cameras)- Alarm could be used for malicious activities detected.<br>
 
-![Image Captioning](Capture1.PNG)
+
 
 
 
